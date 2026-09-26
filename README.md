@@ -5,32 +5,6 @@
 
 ---
 
-<p align="center">
-
-  <!-- NuGet -->
-  <a href="https://www.nuget.org/packages/WinItalPascal">
-    <img src="https://img.shields.io/nuget/v/WinItalPascal?style=for-the-badge" alt="NuGet Version">
-  </a>
-  <a href="https://www.nuget.org/packages/WinItalPascal">
-    <img src="https://img.shields.io/nuget/dt/WinItalPascal?style=for-the-badge" alt="NuGet Downloads">
-  </a>
-
-  <!-- GitHub -->
-  <img src="https://img.shields.io/github/stars/List051/WinItalPascal_Lib?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/List051/WinItalPascal_Lib?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/issues/List051/WinItalPascal_Lib?style=for-the-badge" alt="Issues">
-  <img src="https://img.shields.io/github/last-commit/List051/WinItalPascal_Lib?style=for-the-badge" alt="Last Commit">
-
-  <!-- License -->
-  <a href="https://github.com/List051/WinItalPascal_Lib/blob/main/License.txt">
-    <img src="https://img.shields.io/github/license/List051/WinItalPascal_Lib?style=for-the-badge" alt="License">
-  </a>
-
-</p>
-
----
-
-
 <div align="center">
   <strong>📘 WinItalPascal_ManualBuilder</strong>
 </div>
@@ -71,6 +45,13 @@
 </div>
 
 <p align="center">
+  <!-- NuGet -->
+  <a href="https://www.nuget.org/packages/WinItalPascal">
+    <img src="https://img.shields.io/nuget/v/WinItalPascal?style=for-the-badge" alt="NuGet Version">
+  </a>
+  <a href="https://www.nuget.org/packages/WinItalPascal">
+    <img src="https://img.shields.io/nuget/dt/WinItalPascal?style=for-the-badge" alt="NuGet Downloads">
+  </a>
 
   <a href="https://github.com/List051/WinItalPascal_Lib">
     <img src="https://img.shields.io/github/stars/List051/WinItalPascal_Lib?style=for-the-badge" alt="Lib Stars">
@@ -94,6 +75,7 @@
 
 </p>
 
+---
 
 # 🧩 WinItalPascal – Sistema di Generazione Manuali
 
