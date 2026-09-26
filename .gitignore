@@ -1,0 +1,95 @@
+# ============================
+#   PYTHON
+# ============================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ============================
+#   PDF / TEMPORANEI
+# ============================
+
+# File temporanei generati dagli script
+GENERATED/
+TEMP/
+TMP/
+*.tmp
+*.temp
+*.bak
+
+# File di merge temporanei
+merge_*.pdf
+temp_*.pdf
+
+# ============================
+#   LOG / CACHE
+# ============================
+
+*.log
+*.cache
+*.dat
+
+# ============================
+#   ODVISION
+# ============================
+
+# File temporanei di OdVision
+OdVisionTemp/
+*.odvtmp
+
+# ============================
+#   SISTEMA MANUALE
+# ============================
+
+# NON ignorare PDF finali o PDF degli Snodi
+# Ignoriamo solo file di lavoro temporanei
+
+Snodo*/GENERATED/
+Snodo*/TEMP/
+Snodo*/TMP/
+
+# ============================
+#   IMMAGINI TEMPORANEE
+# ============================
+
+*.svg.tmp
+*.png.tmp
+
+# ============================
+#   WINDOWS / EDITOR
+# ============================
+
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+.history/
+
+# ============================
+#   GIT / ALTRO
+# ============================
+
+# Backup file
+*.old
+*.orig
+
+# ============================
+#   NON ignorare:
+#   - PDF finali
+#   - PDF degli Snodi
+#   - Script Python
+#   - Grafi
+#   - Loghi
+#   - README
+#   - Licenza MIT
+# ============================
