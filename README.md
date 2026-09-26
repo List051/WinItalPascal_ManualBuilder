@@ -30,6 +30,71 @@
 
 ---
 
+
+<div align="center">
+  <strong>📘 WinItalPascal_ManualBuilder</strong>
+</div>
+
+<p align="center">
+
+  <a href="https://github.com/List051/WinItalPascal_ManualBuilder">
+    <img src="https://img.shields.io/github/stars/List051/WinItalPascal_ManualBuilder?style=for-the-badge" alt="MB Stars">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_ManualBuilder">
+    <img src="https://img.shields.io/github/forks/List051/WinItalPascal_ManualBuilder?style=for-the-badge" alt="MB Forks">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_ManualBuilder/issues">
+    <img src="https://img.shields.io/github/issues/List051/WinItalPascal_ManualBuilder?style=for-the-badge" alt="MB Issues">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_ManualBuilder/commits/main">
+    <img src="https://img.shields.io/github/last-commit/List051/WinItalPascal_ManualBuilder?style=for-the-badge" alt="MB Last Commit">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_ManualBuilder/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/List051/WinItalPascal_ManualBuilder?style=for-the-badge" alt="MB License">
+  </a>
+
+</p>
+
+<!-- SEPARATORE -->
+<div align="center" style="font-size:28px; margin: 10px 0;">⬤</div>
+
+<!-- ========================= -->
+<!--   BADGE - LIBRERIA VB.NET -->
+<!-- ========================= -->
+
+<div align="center">
+  <strong>🧩 WinItalPascal_Lib</strong>
+</div>
+
+<p align="center">
+
+  <a href="https://github.com/List051/WinItalPascal_Lib">
+    <img src="https://img.shields.io/github/stars/List051/WinItalPascal_Lib?style=for-the-badge" alt="Lib Stars">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_Lib">
+    <img src="https://img.shields.io/github/forks/List051/WinItalPascal_Lib?style=for-the-badge" alt="Lib Forks">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_Lib/issues">
+    <img src="https://img.shields.io/github/issues/List051/WinItalPascal_Lib?style=for-the-badge" alt="Lib Issues">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_Lib/commits/main">
+    <img src="https://img.shields.io/github/last-commit/List051/WinItalPascal_Lib?style=for-the-badge" alt="Lib Last Commit">
+  </a>
+
+  <a href="https://github.com/List051/WinItalPascal_Lib/blob/main/License.txt">
+    <img src="https://img.shields.io/github/license/List051/WinItalPascal_Lib?style=for-the-badge" alt="Lib License">
+  </a>
+
+</p>
+
+
 # 🧩 WinItalPascal – Sistema di Generazione Manuali
 
 Questo repository contiene il sistema completo utilizzato per generare automaticamente il manuale della libreria WinItalPascal.  
