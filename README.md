@@ -1,5 +1,8 @@
 ---
-banner: "![[WinItalPascal/Logo.png]]"
+<p align="center">
+  <img src="Logo_01.png" alt="Ital Pascal Logo" width="220">
+</p>
+
 ---
 
 <p align="center">
