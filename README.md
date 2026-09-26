@@ -330,6 +330,22 @@ graph LR
     SM --> MC
 
 ```
+# 🔗 Link utili
+
+## 📚 Documentazione della libreria WinItalPascal
+
+- [📘 Documentazione Tecnica (*.md)](https://github.com/List051/WinItalPascal_Lib/tree/main/Documentation)
+- [📄 Manuali PDF della libreria](https://github.com/List051/WinItalPascal_Lib/tree/main/Help/pdf)
+
+---
+
+## 🎬 Video dimostrativi
+
+- [🎥 Video Esempi – WinVideoShowcase](https://list051.github.io/WinVideoShowcase/)
+- [📺 Canale YouTube](https://www.youtube.com/@iaoraGo)
+- [🎞️ Playlist completa WinItalPascal](https://www.youtube.com/watch?v=UboNebA_Irs&list=PLqYE2xAtyfEAiNY4qC2LeJJuCJPyUScXL)
+
+---
 
 ---
 <div class="page-break"></div>
